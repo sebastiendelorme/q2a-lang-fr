@@ -29,10 +29,10 @@
 
 	return array(
 		'1_answer_title' => '1 Réponse',
-		'a_convert_to_c_on' => 'Convertir cette réponse dans un commentaire sur:',
+		'a_convert_to_c_on' => 'Convertir cette réponse dans un commentaire sur :',
 		'a_convert_to_c' => 'Convertir cette réponse dans un commentaire',
-		'a_convert_warn_cs' => 'Attention: cette opération est irréversible et déplace également les commentaires de cette réponse.',
-		'a_convert_warn' => 'Attention: cette opération est irréversible.',
+		'a_convert_warn_cs' => 'Attention : cette opération est irréversible et déplace également les commentaires de cette réponse.',
+		'a_convert_warn' => 'Attention : cette opération est irréversible.',
 		'a_notify_email' => 'Envoyez-moi un e-mail à cette adresse si ma réponse est sélectionnée ou commentée',
 		'a_notify_label' => 'Envoyez-moi un e-mail si ma réponse est sélectionnée ou commentée',
 		'a_notify_x_label' => 'Envoyez-moi un e-mail (^) si ma réponse est sélectionnée ou commentée',
