@@ -82,7 +82,7 @@
 		'date_month_11' => 'novembre',
 		'date_month_12' => 'décembre',
 		'date_year_digits' => 4, // 2 or 4
-		'edited' => 'edité',
+		'edited' => 'édité',
 		'email_error' => 'Une erreur est survenue lors de l\'envoi de l\'e-mail.',
 		'field_required' => 'Merci d\'entrer quelque chose dans ce champ',
 		'file_upload_limit_exceeded' => 'La taille du fichier dépasse la limite du serveur',

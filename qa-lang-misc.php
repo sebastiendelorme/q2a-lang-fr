@@ -112,7 +112,7 @@
 		'your_a_selected' => 'votre réponse est sélectionnée',
 		'your_c_edited' => 'votre commentaire est édité',
 		'your_c_followed' => 'votre commentaire est suivi',
-		'your_c_hidden' => 'votre commentaire est cachée',
+		'your_c_hidden' => 'votre commentaire est caché',
 		'your_c_moved' => 'votre commentaire est déplacé',
 		'your_c_reshown' => 'votre commentaire est réenvoyé',
 		'your_q_answered' => 'vous avez une réponse à votre question',
@@ -123,7 +123,7 @@
 		'your_q_recategorized' => 'votre question est recatégorisée',
 		'your_q_reopened' => 'votre question est réouverte',
 		'your_q_reshown' => 'votre question réenvoyée',
-		'your_q_retagged' => 'your question reclassée',
+		'your_q_retagged' => 'votre question est reclassée',
 	);
 	
 
