@@ -148,7 +148,7 @@
 		'page_prev' => 'précédent',
 		'popular_tags' => 'Mots clés les plus utilisés',
 		'questions_tagged_x' => 'Questions récentes marquées ^',
-		'recategorized' => 'recatégorisées',
+		'recategorized' => 'recatégorisée',
 		'recent_activity_in_x' => 'Activité récente dans ^',
 		'recent_activity_title' => 'Activité récente',
 		'recent_as_in_x' => 'Question répondue récemment ^',
